@@ -147,12 +147,9 @@ Climate-Resilient-Crop-Yield-Prediction
 ├── Final_Report.pdf
 ├── README.md
 ├── requirements.txt
-│
-└── Images
-      ├── actual_vs_predicted.png
-      ├── training_validation_loss.png
-      ├── architecture.png
-      └── flowchart.png
+├── actual_vs_predicted.png
+├── training_validation_loss.png
+
 ```
 
 ---
@@ -162,7 +159,7 @@ Climate-Resilient-Crop-Yield-Prediction
 1. Clone the repository
 
 ```bash
-git clone https://github.com/YourUsername/Climate-Resilient-Crop-Yield-Prediction.git
+git clone https://github.com/khadijatulkubra-tech/Climate-Resilient-Crop-Yield-Prediction.git
 ```
 
 2. Install dependencies
