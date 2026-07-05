@@ -23,24 +23,27 @@ This project develops a **CNN-based crop yield prediction model** using an agric
 
 ---
 
-## 📂 Dataset
+## Dataset
 
-**Source:** Kaggle Crop Yield Dataset
+The dataset used in this project was obtained from Kaggle.
 
-The dataset contains agricultural and environmental attributes such as:
+**Dataset Link:**
+https://www.kaggle.com/datasets/majidiqbalvhr/crop-yield-dataset
+
+The dataset contains agricultural and environmental features including:
 
 - Region
 - Soil Type
 - Crop
 - Rainfall (mm)
 - Temperature (°C)
-- Fertilizer Usage
-- Irrigation Usage
+- Fertilizer Used
+- Irrigation Used
 - Weather Condition
 - Days to Harvest
-- Crop Yield (tons/hectare)
+- Yield (tons per hectare)
 
-> **Note:** The dataset is not included in this repository due to GitHub file size limitations. It can be downloaded from Kaggle.
+> Note: The dataset is not included in this repository because of GitHub file size limitations. Please download it from the above Kaggle link and place it in the project directory before running the notebook.
 
 ---
 
